@@ -1,0 +1,8 @@
+# 排除VSCode配置文件夹
+.vscode/
+
+# 通用开发环境排除项（可选添加）
+*.log
+node_modules/
+.DS_Store
+*.tmp

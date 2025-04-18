@@ -1,0 +1,30 @@
+// {
+//     "configurations": [
+//         {
+//             "name": "win",
+//             "includePath": [
+//                 "${workspaceFolder}/**"
+//             ],
+//             "defines": [],
+//             "compilerPath": "D:\\tool_download_file\\vscode\\program\\MinGW\bin\\gcc.exe",
+//             "cStandard": "c11",
+//             "cppStandard": "c++11",
+//             "intelliSenseMode": "clang-x64"
+//         }
+//     ],
+//     "version": 4
+// }
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "compilerPath": "D:/tool_download_file/vscode/program/MinGW/bin/g++.exe",
+            "cppStandard": "c++14", // 代码提示使用 C++14
+            "intelliSenseMode": "windows-gcc-x64",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ]
+        }
+    ],
+    "version": 4
+}

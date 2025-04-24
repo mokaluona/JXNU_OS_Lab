@@ -6,3 +6,14 @@
 node_modules/
 .DS_Store
 *.tmp
+
+# 配置文件
+.gitignore
+
+#排除exe文件夹
+out/
+
+#忽略单个文件
+Untitled-1.cpp
+Untitled-2.cpp
+Untitled-3.cpp
